@@ -10,11 +10,18 @@ See here for a direct link to the notebook <https://github.com/Inkering/Educatio
 All the other files in the respository are an exploration done together by Annie Kroo and Dieter Brehem.
 
 The final commented & compiled analysis and exploration is in this notebook:  
-[Regression Analysis](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Regression-dieter.ipynb)  
+[Regression Analysis](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Regression-final.ipynb)  
+
+A prior version of the regression notebook with more exploration and plots which is less concise
+[Regression Analysis](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Regression-archive.ipynb)  
 
 We performed a large amount of data wrangling and analysis in a few different notebooks. The process documents for this project are prominently inside these notebooks:
   
-* [Data Exploration and Tooling Notebook](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Preliminary%20Exploration-dieter-midnight_funtimes.ipynb)
+* [Data Exploration with distribution exploration](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Preliminary%20Exploration-archive_1.ipynb)
+  
+* [Older Data Exploration including school lookup tool](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Preliminary%20Exploration-archive_2.ipynb)
+
+* [Most recent Data Exploration](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/Preliminary%20Exploration-archive_3.ipynb)
 
 ## Project Deliverable (Poster)
 
