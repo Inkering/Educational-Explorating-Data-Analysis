@@ -1,2 +1,13 @@
 data/
 data/*
+NDE/
+aggregates/
+elsect/
+enroll_sanity_check.txt
+nces_enroll/
+sanity_check.txt
+states_all.csv
+states_all_extended.csv
+us-education-dataset.zip
+.DS_Store
+.ipynb_checkpoints/
