@@ -2,7 +2,7 @@
 There are two datasets explored in this repository.
 
 ## NAEP Dataset Exploration
-US_Education.ipynb is a colab notebook including an exploration by Case Zito. Pictures of plots are in the NAEP_math_score_plots folder.
+US_Education.ipynb is a colab notebook including an exploration by Riley Zito. Pictures of plots are in the NAEP_math_score_plots folder.
 
 See here for a direct link to the notebook [US Education Analysis Notebook](https://github.com/Inkering/Educational-Exploratory-Data-Analysis/blob/master/US_Education.ipynb)
 
